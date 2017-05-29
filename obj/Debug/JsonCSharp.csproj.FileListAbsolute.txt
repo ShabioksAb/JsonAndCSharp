@@ -1,0 +1,7 @@
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\bin\Debug\JsonCSharp.exe.config
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\bin\Debug\JsonCSharp.exe
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\bin\Debug\JsonCSharp.pdb
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\obj\Debug\JsonCSharp.csprojResolveAssemblyReference.cache
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\obj\Debug\JsonCSharp.exe
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\obj\Debug\JsonCSharp.pdb
+c:\users\monic\onedrive\documents\visual studio 2017\Projects\JsonCSharp\bin\Debug\MyPrimerJson.json
